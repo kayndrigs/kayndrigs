@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)](https://rishacenter">Hi 👋, I'm Kayne Rodrigo</h1>
+[![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)](https://rishacenter">
+
+<h1>Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 

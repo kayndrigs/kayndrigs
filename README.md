@@ -15,18 +15,6 @@
 
 - 🤝 I’m looking for help with **on Sorting Techniques**
 
-- 👨‍💻 All of my projects are available at [[On progress]]([On progress])
-
-- 📝 I regularly write articles on [[On progress]]([On progress])
-
-- 💬 Ask me about **C++ fundamentals**
-
-- 📫 How to reach me **kayne.rodrigo11@gmail.com**
-
-- 📄 Know about my experiences [[On progress]]([On progress])
-
-- ⚡ Fun fact **I ate lettuce for dinner.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kyndrgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyndrgs" height="30" width="40" /></a>

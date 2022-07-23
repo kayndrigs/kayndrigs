@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/CooperativeAcademicAmbushbug-mobile.mp4)](https://rishacenter">Hi 👋, I'm Kayne Rodrigo</h1>
+[![MasterHead](https://thumbs.gfycat.com/CooperativeAcadem)](https://rishacenter">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif)](https://rishavchanda.io)
+[![MasterHead](https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">

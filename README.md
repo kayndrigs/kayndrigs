@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayndrigs&label=Profile%20views&color=0e75b6&style=flat" alt="kayndrigs" /> </p>
 

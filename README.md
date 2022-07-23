@@ -1,4 +1,4 @@
-[![MasterHead]https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
@@ -42,3 +42,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayndrigs&show_icons=true&locale=en" alt="kayndrigs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayndrigs&" alt="kayndrigs" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee

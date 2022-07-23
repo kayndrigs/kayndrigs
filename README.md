@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/kayndrigs/gifs/main/ezgif.com-gif-maker.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/kayndrigs/gifs/main/ezgif.com-gif-maker%20(2).gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
@@ -14,6 +14,18 @@
 - 👯 I’m looking to collaborate on **Google**
 
 - 🤝 I’m looking for help with **on Sorting Techniques**
+
+- 👨‍💻 All of my projects are available at [[On progress]]([On progress])
+
+- 📝 I regularly write articles on [[On progress]]([On progress])
+
+- 💬 Ask me about **C++ fundamentals**
+
+- 📫 How to reach me **kayne.rodrigo11@gmail.com**
+
+- 📄 Know about my experiences [[On progress]]([On progress])
+
+- ⚡ Fun fact **I ate lettuce for dinner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

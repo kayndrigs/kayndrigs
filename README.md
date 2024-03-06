@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/kayndrigs/gifs/main/ezgif.com-gif-maker%20(2).gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kayne</h1>
-<h3 align="center">Aspiring Developer from Philippines</h3>
+<h3 align="center">Aspiring Data Engineer / Cybersecurity Analyst from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayndrigs&label=Profile%20views&color=0e75b6&style=flat" alt="kayndrigs" /> </p>

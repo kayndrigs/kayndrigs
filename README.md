@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/kayndrigs/gifs/main/ezgif.com-gif-maker%20(2).gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kayne</h1>
+<h1 align="center">Hi 👋, I'm Kayne Rodrigo</h1>
 <h3 align="center">Aspiring Data Engineer / Cybersecurity Analyst from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
